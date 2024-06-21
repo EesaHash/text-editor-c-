@@ -1,0 +1,14 @@
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\bin\Debug\RichTextEditor.exe.config
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\bin\Debug\RichTextEditor.exe
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\bin\Debug\RichTextEditor.pdb
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.csproj.AssemblyReference.cache
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.LoginForm.resources
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.Properties.Resources.resources
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.csproj.GenerateResource.cache
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.exe
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.pdb
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.Editor.resources
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.CreateUser.resources
+C:\Users\eesa\source\repos\TextEditor\RichTextEditor\obj\Debug\RichTextEditor.About.resources
